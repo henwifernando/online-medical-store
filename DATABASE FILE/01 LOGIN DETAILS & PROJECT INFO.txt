@@ -1,0 +1,18 @@
+
+Database Name: online_medical_store**
+
+Recommended PHP Version 5.6, 7.4**
+
+
+**Login Details**
+
+Username: admin
+Password: henrifernando
+
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+
+
