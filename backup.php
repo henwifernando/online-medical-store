@@ -8,7 +8,7 @@ if (!isset($_SESSION['user_session'])) {  //User_session
 } else {
 
 
-	backup_tables('localhost', 'root', '123456', 'online_medical_store');
+	backup_tables('localhost', 'root', '', 'online_medical_store');
 }
 /* backup the db OR just a table */
 function backup_tables($host, $user, $pass, $name, $tables = '*')

@@ -195,7 +195,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_name`, `password`) VALUES
-(1, 'admin', '6812f136d636e737248d365016f8cfd5139e387c')
+(1, 'admin', '526f2d9f2ad0bb2ae2f502466a4fba768708510f')
 ;
 
 

@@ -3,7 +3,7 @@
 
 $host ="localhost";
 $user ="root";
-$password= "123456";
+$password= "";
 $dbname = "online_medical_store";
 
 

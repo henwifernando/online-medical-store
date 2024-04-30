@@ -32,7 +32,6 @@
   })//*****POP_UP FORMS*********
 
     </script>
-     <!-- For more projects: Visit codeastro.com  -->
 </head>
 <body>
   <body style="height: 100%">
